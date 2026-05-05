@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Soft Palette -->
+    <color name="primaryColor">#6366F1</color>
+    <color name="primaryLightColor">#A5B4FC</color>
+    <color name="primaryDarkColor">#4338CA</color>
+
+    <color name="secondaryColor">#F43F5E</color>
+    <color name="secondaryLightColor">#FDA4AF</color>
+
+    <color name="backgroundColor">#F8FAFC</color>
+    <color name="surfaceColor">#FFFFFF</color>
+
+    <color name="textPrimary">#1E293B</color>
+    <color name="textSecondary">#64748B</color>
+    <color name="accentColor">#10B981</color>
+</resources>
