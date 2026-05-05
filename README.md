@@ -15,3 +15,6 @@ NIM     : F1D02310045
 Konfigurasi Sistem: Terjadi kegagalan sinkronisasi karena properti AndroidX belum aktif dan versi Gradle yang tidak sesuai.
 
 Solusi: Mengaktifkan android.useAndroidX di gradle.properties dan memperbarui versi Gradle Wrapper ke 8.13.
+
+== Screenshot ==
+1. Login 
