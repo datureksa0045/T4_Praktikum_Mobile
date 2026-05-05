@@ -17,8 +17,8 @@ Konfigurasi Sistem: Terjadi kegagalan sinkronisasi karena properti AndroidX belu
 Solusi: Mengaktifkan android.useAndroidX di gradle.properties dan memperbarui versi Gradle Wrapper ke 8.13.
 
 == Screenshot ==
-1. ![Login](ScreenShot/Login.png)
-2. ![DaftarMahasiswa](ScreenShot/DaftarMahasiswa)
+1. ![Login](ScreenShot/LoginPage.png)
+2. ![DaftarMahasiswa](ScreenShot/DaftarMahasiswa.png)
 3. ![Catatan](ScreenShot/Catatan.png)
 4. ![Tambah](ScreenShot/Tambah.png)
    
